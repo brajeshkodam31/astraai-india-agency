@@ -14,9 +14,14 @@ export default function Hero() {
         into customers.
       </p>
 
-      <button className="hero-button">
-        Book Free Demo <span>→</span>
-      </button>
+<a
+  href="https://wa.me/919021932022?text=Hi%20AstraAI%20India,%20I%20want%20a%20free%20AI%20chatbot%20demo"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="hero-button"
+>
+  Book Free Demo <span>→</span>
+</a>
 
       <style jsx>{`
         .hero-section {
