@@ -85,11 +85,15 @@ export default function Hero() {
           gap: 10px;
           transition: all 0.3s ease;
           box-shadow: 0 0 30px rgba(0, 255, 153, 0.45);
+          text-decoration: none;
+          color: #003322;
+
         }
 
         .hero-button:hover {
           transform: translateY(-3px);
           box-shadow: 0 0 45px rgba(0, 255, 153, 0.75);
+        
         }
 
         .hero-button span {
